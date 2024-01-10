@@ -1,5 +1,3 @@
-# Welcome to Playable Factory 🚀
-
 ## 🚀 Getting Started
 
 ### Prerequisites
