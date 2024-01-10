@@ -1,0 +1,62 @@
+{
+  "bundles": [
+    {
+      "name": "game",
+      "assets": [
+        {
+          "name": "logo",
+          "srcs": "assets/core/logo_white.png"
+        },
+        {
+          "name": "circles",
+          "srcs": "assets//bubble-white.png"
+        },
+        {
+          "name": "whileClick_circle",
+          "srcs": "assets//circle0.png"
+        },
+        {
+          "name": "gray_pane",
+          "srcs": "assets//gray-pane.png"
+        },
+        {
+          "name": "cross",
+          "srcs": "assets//cross.png"
+        },
+        {
+          "name": "bg_color",
+          "srcs": "assets//background.png"
+        },
+        {
+          "name": "input_box",
+          "srcs": "assets//orange-pane.png"
+        },
+        {
+          "name": "green_pane",
+          "srcs": "assets//green-pane.png"
+        },
+        {
+          "name": "tick",
+          "srcs": "assets//tick.png"
+        },
+        {
+          "name": "end_circle",
+          "srcs": "assets//circle.png"
+        },
+        {
+          "name": "hand",
+          "srcs": "assets//hand.png"
+        }
+      ]
+    },
+    {
+      "name": "fonts",
+      "assets": [
+        {
+          "name": "font",
+          "srcs": "assets//Sniglet-Regular.ttf"
+        }
+      ]
+    }
+  ]
+}
